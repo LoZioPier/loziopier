@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lo Zio Pier
 
-<!--
-**LoZioPier/loziopier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Landing page statica della toelettatura per cani e gatti a Castelfranco Veneto.
 
-Here are some ideas to get you started:
+Aprire `index.html` nel browser. Non servono installazioni o build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Indirizzo: Via Bella Venezia 67/G, Castelfranco Veneto (TV).
+Telefono: +39 351 408 0912. WhatsApp: https://wa.me/393514080912.
+
+## File
+
+- `index.html`: contenuti approvati, contatti e fotografie locali.
+- `styles.css`: stile responsive e animazioni con supporto a movimento ridotto.
+- `script.js`: animazioni discrete all'ingresso delle sezioni.
+- `images/`: fotografie originali e logo LACOVET.
+- `logo-lo-zio-pier.png`: logo ufficiale del salone.
+- `loziopiertoeltteatura.png`: collage reale nella sezione iniziale.
+
+La galleria contiene nove fotografie originali. I file `images/Barbone` e `images/Chow Chow` sono immagini valide anche senza estensione. Le immagini non dipendono da servizi esterni. I font vengono caricati da Google Fonts, con alternative locali quando offline.
